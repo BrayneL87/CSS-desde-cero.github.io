@@ -1,0 +1,22 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  height: 1000px;
+}
+div{
+  height: 500px;
+  width: 90%;
+  background: #e4fbbb;
+  position: absolute;
+}
+/*poditin relative, absolute, fixed*/
+h1{
+  padding:20px;
+  margin: 20px;
+  background-color: red;
+  border: 10px solid #000;
+  border-radius: 10px;
+  position: fixed;/*Esta etiqueta   position: relative; se utiliza para que la caja quede en una posición absoluta*/
+}

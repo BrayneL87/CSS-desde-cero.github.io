@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+header{
+  width: 100%;
+  padding: 10px 0px 10px 0px;
+  background-color: #00bfff;
+  border-top: 2px solid #086a87;
+  border-bottom: 2px solid #086a87;
+}
+header ul{
+  text-align: center;
+
+}
+header ul a{
+  padding: 10px;
+  text-decoration: none;
+  font: bold 17px calibri cuerpo;
+  color: #fff;
+  transition: padding .8s, background .8s,  box-shadow .8s;
+}
+header ul a:hover{
+  background: #086a87;
+  border: 10px solid #086a87;
+  box-shadow: 1px 1px 10px #086a87;/*Esta etiqueta se utiliza para darle sombrado a las cajas*/
+
+}

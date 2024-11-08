@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+img{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  border: 8px solid #3b5998;
+  border-radius: 10px;
+  margin: 100px 0px 0px 40px;
+  opacity: .8;/*Eata etiqueta opacity: .8;se utiliza para darle transparencia a la imagen*/
+}
+img:hover{/*y estas etoquetasimg:hover{
+  opacity: 1;
+} se utiliza para que la imagen se muestre o se quite lo transparente*/
+  opacity: 1;
+}

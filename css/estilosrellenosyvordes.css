@@ -1,0 +1,15 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+h1{
+  /* top arriiba
+  right derecha
+  bottom abajo
+  left izquierda*/
+  /*la etiqueta padding-top se utiliza para que el texto se utilize en la parte de arriiba y bottom en la parte de abajo*/
+  padding:20px;
+  margin: 20px;
+  background-color: red;
+  border: 10px solid #000;
+}

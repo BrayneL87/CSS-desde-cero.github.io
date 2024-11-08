@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+form{
+  padding: 50px 0px 0px 37%;
+}
+form input{
+  width:300px;
+  height: 30px;
+  font-family: calibri cuerpo;
+  font-size: 20px;
+  border: 2px solid #3b5998;
+  border-radius: 5px;
+  margin-bottom: 3px;
+}
+#boton{
+  width: 305px;
+  background-color: #3b5998;
+  color: #fff;
+}
+.

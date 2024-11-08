@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.boton{
+  display: inline-block;/*Esta etiqueta block se utilizs para colocar un boton debajo del otro y esta otra inline-block para que un boton se coloque del lado del otro*/
+  margin: 50px;
+  border: 2px solid #000;
+  font: bold 20px  calibri cuerpo;
+  padding: 10px 40px 10px 40px;
+  cursor: pointer;
+  transition: background 2s;
+}
+.boton:hover{
+  background: #3b5998;
+  color: #fff;
+}

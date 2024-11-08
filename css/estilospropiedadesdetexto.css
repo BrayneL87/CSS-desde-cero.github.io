@@ -1,0 +1,11 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+span/*Esta etiqueta span se utiliza para darle extilo al texto*/{
+  font-size: 50px;
+  font-family: verdana;
+  font-weight: bold;
+  font-style: oblique;
+  webkit-text-stroke:
+}
